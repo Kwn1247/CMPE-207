@@ -1,0 +1,7 @@
+{
+  "httpMethod": "POST",
+    "TableName": "Lab-5",
+    "Item": {
+    "nothing": "1"
+  }
+}

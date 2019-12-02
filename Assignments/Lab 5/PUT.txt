@@ -1,0 +1,7 @@
+{
+  "httpmethod": "PUT",
+  "tableName": "Lab-5",
+  "Key": {
+    "nothing": "2"
+  }
+}

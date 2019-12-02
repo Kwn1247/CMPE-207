@@ -1,0 +1,4 @@
+{
+  "httpmethod": "GET",
+  "tableName": "Lab-5"
+}
